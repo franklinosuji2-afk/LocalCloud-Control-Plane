@@ -151,4 +151,6 @@ Platform engineering demonstrations
 
 📌 Author
 
+Franklin Chinonso
+
 Built as a local DevOps / platform engineering simulation project focused on cloud architecture principles and system design thinking.
