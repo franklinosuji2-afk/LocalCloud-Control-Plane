@@ -1,6 +1,6 @@
 # 🚀 LocalCloud Control Plane
 
-A **local-first platform engineering and DevOps simulation system** that replicates core cloud control-plane behaviors—deployment orchestration, service lifecycle management, observability, and infrastructure control without relying on external cloud providers.
+A **local-first platform engineering and DevOps simulation system** that replicates core cloud control-plane behaviors deployment orchestration, service lifecycle management, observability, and infrastructure control without relying on external cloud providers.
 
 This project demonstrates how modern cloud orchestration platforms such as Kubernetes operate internally by implementing a simplified control plane using **Node.js**, **React**, and **Docker**.
 
